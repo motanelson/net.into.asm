@@ -1,10 +1,4 @@
-library of gui of progress bar user builder
-
-
-
-
-
-
+https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
 
 
 
