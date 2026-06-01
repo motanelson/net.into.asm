@@ -1,4 +1,5 @@
-def _debugs(_a:vars):
+def _debugs(_v:vars):
+    _a=dict(_v)
     counter=0
     for _b in _a:
         if len(_b)>0:
@@ -17,5 +18,5 @@ _value={'hello':1,'a':"hello world....\n",'b':'####################'}
 _v=vars()
 _v.update(_value)
 
-_a=dict(_v)
-_debugs(_a)
+
+_debugs(_v)
