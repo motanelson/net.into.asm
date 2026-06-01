@@ -1,4 +1,4 @@
-https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
+a debug function to use in you code
 
 
 
