@@ -1,4 +1,4 @@
-a debug function to use in you code
+convert net c# into asm x86
 
 
 
